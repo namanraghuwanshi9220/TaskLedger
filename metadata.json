@@ -1,0 +1,6 @@
+{
+  "name": "TaskLedger",
+  "description": "An on-chain decentralized task ledger on Stellar with deadlines, completion tracking, and task-ownership transfer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
